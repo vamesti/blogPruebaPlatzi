@@ -26,3 +26,17 @@ p{
     text-align: justify;
     line-height: 1.5rem;
 }
+
+#head{
+    height: 100px;
+    background-color:  midnightblue;
+    color: greenyellow;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    margin: 0 auto !important;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+}
