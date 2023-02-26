@@ -44,3 +44,9 @@ p{
 #body2{
     font-family: 'Courier New', Courier, monospace;
 }
+
+h3{
+    text-align: center;
+    color: darkmagenta;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
